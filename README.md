@@ -13,3 +13,6 @@ Please have another folder like I have for the final test images: D:\DL\image-cl
 Please feel free to play around with the layers available in Keras documentation too !
 
 Happy Learning !
+
+I have used the dataset from the below blog: The author has used a prebuilt LeNet while I have tried to build the layers on my own.
+https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
